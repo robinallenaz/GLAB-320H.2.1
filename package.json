@@ -1,0 +1,12 @@
+{
+  "name": "glab-320h.2.1",
+  "version": "1.0.0",
+  "description": "GLAB 320H.2.1 - Building a Simple React Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
